@@ -21,4 +21,4 @@ Below is the architecture of the project.
 
 <img width="1600" height="1170" alt="image" src="https://github.com/user-attachments/assets/79987d4e-6046-4152-b155-5622976110c1" />
 
-
+To check out the full report [click here.](https://github.com/vooora/aws-attendance-bot/blob/main/report.pdf)
